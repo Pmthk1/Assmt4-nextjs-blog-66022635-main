@@ -43,8 +43,8 @@ export default function Page() {
             <p className="text-2xl font-bold">Contact</p>
             <p>Facebook : Chukkarin Junchang</p>
             <p>Instagram : chukkarin_junchang</p>
-            <p>Email: 66022455@up.ac.th</p>
-            <p>Phone: 061-490-3790</p>
+            <p>Email: 66022635@up.ac.th</p>
+            <p>Phone: 099-891-4553</p>
           </div>
         </div>
 
