@@ -19,7 +19,7 @@ export default function Page() {
               />
               <div className="absolute inset-0 rounded-full border-[6px] border-blue-500"></div>
             </div>
-            <p className="text-2xl font-bold mt-4">Chukkarin Junchang</p>
+            <p className="text-2xl font-bold mt-4">Thanakrit Suphamongkhon</p>
           </div>
 
           {/* การศึกษา */}
