@@ -41,8 +41,7 @@ export default function Page() {
           {/* การติดต่อ */}
           <div className="p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
             <p className="text-2xl font-bold">Contact</p>
-            <p>Facebook : Chukkarin Junchang</p>
-            <p>Instagram : chukkarin_junchang</p>
+            <p>Facebook : Thanakrit Suphamongkhon</p>
             <p>Email: 66022635@up.ac.th</p>
             <p>Phone: 099-891-4553</p>
           </div>
