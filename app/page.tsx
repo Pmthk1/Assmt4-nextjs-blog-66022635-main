@@ -24,7 +24,7 @@ export default function Home() {
           Welcome to My Portfolio
         </h3>
         <h3
-          className="mb-8 text-3xl font-semibold text-gray-200 bg-gray-700 bg-opacity-80 rounded-full px-6 py-3 drop-shadow-md"
+          className="mb-8 text-3xl font-semibold text-gray-200 bg-gray-700 bg-opacity-80 rounded-full px-8 py-2 drop-shadow-md"
         >
           Thanakrit Suphamongkhon
         </h3>
