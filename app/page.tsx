@@ -21,7 +21,7 @@ export default function Home() {
         <h3 className="mb-4 text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
           Welcome to My Portfolio
         </h3>
-        <h3 className="mb-8 text-2xl font-semibold text-gray-200">
+        <h3 className="mb-8 text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
           Thanakrit Suphamongkhon
         </h3>
         
