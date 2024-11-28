@@ -22,9 +22,9 @@ export default function Home() {
         </h3>
         <button
           onClick={handleClick}
-          className="px-8 py-4 text-lg font-medium text-white bg-blue-600 rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-300"
+           className="px-8 py-4 text-lg font-medium text-white bg-blue-600 rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-300"
         >
-          Next Page
+          View Portfolio
         </button>
       </div>
     </div>
