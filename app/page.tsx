@@ -19,12 +19,12 @@ export default function Home() {
       <div className="text-center">
         {/* Welcome Message */}
         <h3
-          className="mb-4 text-5xl font-extrabold text-white bg-clip-text bg-gradient-to-r from-yellow-300 to-orange-600 drop-shadow-lg bg-black bg-opacity-50 rounded-lg px-4 py-2"
+          className="mb-4 text-5xl font-extrabold text-gray-100 bg-gradient-to-r from-yellow-300 to-orange-600 drop-shadow-lg bg-black bg-opacity-70 rounded-xl px-6 py-4"
         >
           Welcome to My Portfolio
         </h3>
         <h3
-          className="mb-8 text-3xl font-semibold text-white bg-clip-text bg-gradient-to-r from-teal-400 to-green-500 drop-shadow-md bg-black bg-opacity-50 rounded-lg px-4 py-2"
+          className="mb-8 text-3xl font-semibold text-gray-100 bg-gradient-to-r from-teal-400 to-green-500 drop-shadow-md bg-black bg-opacity-70 rounded-xl px-6 py-4"
         >
           Thanakrit Suphamongkhon
         </h3>
