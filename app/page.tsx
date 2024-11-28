@@ -18,7 +18,10 @@ export default function Home() {
     >
       <div className="text-center">
         <h3 className="mb-6 text-2xl font-bold text-white bg-black bg-opacity-50 rounded-md px-4 py-2">
-          Welcome to Portfolio Thanakrit Suphamongkhon
+          Welcome to My Portfolio
+        </h3>
+        <h3 className="text-xl font-medium text-white bg-black bg-opacity-50 rounded-md px-4 py-2">
+          Thanakrit Suphamongkhon
         </h3>
         <button
           onClick={handleClick}
