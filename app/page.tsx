@@ -18,10 +18,10 @@ export default function Home() {
     >
       <div className="text-center">
         {/* Welcome Message */}
-        <h3 className="mb-4 text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-yellow-500">
+        <h3 className="mb-4 text-5xl font-extrabold text-white bg-clip-text bg-gradient-to-r from-yellow-300 to-orange-600 drop-shadow-lg">
           Welcome to My Portfolio
         </h3>
-        <h3 className="mb-8 text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-teal-300 to-teal-500">
+        <h3 className="mb-8 text-3xl font-semibold text-white bg-clip-text bg-gradient-to-r from-teal-400 to-green-500 drop-shadow-md">
           Thanakrit Suphamongkhon
         </h3>
         
