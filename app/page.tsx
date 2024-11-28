@@ -16,7 +16,7 @@ export default function Home() {
         backgroundImage: "url('/image/background 1.jpg')",
       }}
     >
-      <div className="text-center">
+      <div className="text-center flex flex-col items-center">
         {/* Welcome Message */}
         <h3
           className="mb-4 text-5xl font-extrabold text-gray-100 bg-gray-800 bg-opacity-80 rounded-full px-8 py-4 drop-shadow-lg"
