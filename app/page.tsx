@@ -18,17 +18,17 @@ export default function Home() {
     >
       <div className="text-center">
         {/* Welcome Message */}
-        <h3 className="mb-4 text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-gray-200 to-gray-400">
+        <h3 className="mb-4 text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-yellow-500">
           Welcome to My Portfolio
         </h3>
-        <h3 className="mb-8 text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-gray-300 to-gray-500">
+        <h3 className="mb-8 text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-teal-300 to-teal-500">
           Thanakrit Suphamongkhon
         </h3>
         
         {/* Button */}
         <button
           onClick={handleClick}
-          className="px-10 py-4 text-lg font-medium text-gray-100 bg-gradient-to-r from-gray-600 to-gray-800 rounded-full shadow-md hover:from-gray-500 hover:to-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-300"
+          className="px-10 py-4 text-lg font-medium text-white bg-gradient-to-r from-blue-500 to-blue-700 rounded-full shadow-lg hover:from-blue-400 hover:to-blue-600 hover:scale-105 transform transition duration-300 focus:outline-none focus:ring-4 focus:ring-blue-300"
         >
           View My Portfolio
         </button>
