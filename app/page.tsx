@@ -13,7 +13,7 @@ export default function Home() {
     <div
       className="relative min-h-screen bg-cover bg-center"
       style={{
-        backgroundImage: "url('/image/6.jpg')",
+        backgroundImage: "url('/image/background 1.jpg')",
       }}
     >
       <div className="flex items-center justify-center">
