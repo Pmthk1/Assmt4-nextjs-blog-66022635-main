@@ -24,7 +24,7 @@ export default function Home() {
           onClick={handleClick}
            className="px-8 py-4 text-lg font-medium text-white bg-blue-600 rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-300"
         >
-          View Portfolio
+          View My Portfolio
         </button>
       </div>
     </div>
