@@ -7,24 +7,23 @@ export default function Page() {
   <div className="grid grid-cols-2 gap-8 w-4/5">
   {/* คอลัมน์ซ้าย */}
   <div>
-         {/* โปรไฟล์ */}
-         <div className="text-center mb-8">
-          <div className="relative w-52 h-52 mx-auto">
-            <Image
-            src="/image/profile1.jpg"
-            alt="Profile Picture"
-            layout="fill"
-            objectFit="cover"
-            className="rounded-full border-4 border-white shadow-lg"
-    />
-    {/* ปรับขอบวงกลมให้เข้ากับพื้นหลัง */}
-    <div className="absolute inset-0 rounded-full border-[6px] border-blue-400"></div>
-    </div>
-    <p className="text-2xl font-bold mt-4 text-blue-700">Thanakrit Suphamongkhon</p>
-    </div>
+          {/* โปรไฟล์ */}
+          <div className="text-center mb-8">
+            <div className="relative w-52 h-52 mx-auto">
+              <Image
+                src="/image/profile1.jpg"
+                alt="Profile Picture"
+                layout="fill"
+                objectFit="cover"
+                className="rounded-full border-4 border-white shadow-lg"
+              />
+              <div className="absolute inset-0 rounded-full border-[6px] border-blue-500"></div>
+            </div>
+            <p className="text-2xl font-bold mt-4">Thanakrit Suphamongkhon</p>
+          </div>
 
-
-          {/* การศึกษา */}<div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
+          {/* การศึกษา */}
+          <div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
             <p className="text-2xl font-bold mb-4">Education</p>
             <div>
               <p className="text-xl font-semibold">University of Phayao</p>
