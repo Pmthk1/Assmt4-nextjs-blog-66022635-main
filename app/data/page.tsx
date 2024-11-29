@@ -24,7 +24,7 @@ export default function Page() {
 
           {/* การศึกษา */}
           <div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
-            <p className="text-2xl font-bold mb-4">Education</p>
+            <p className="text-2xl font-bold mb-4">ประวัติการศึกษา</p>
             <div>
               <p className="text-xl font-semibold">University of Phayao</p>
               <p className="mt-2">Faculty of Information and Communication Technology</p>
@@ -37,7 +37,7 @@ export default function Page() {
 
           {/* ทักษะ */}
           <div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
-            <p className="text-2xl font-bold">Skills</p>
+            <p className="text-2xl font-bold">ทักษะ</p>
             <ul className="list-disc pl-5">
               <li>Programming: JavaScript, Python</li>
               <li>Web Development: HTML, CSS, React, Next.js</li>
@@ -47,7 +47,7 @@ export default function Page() {
 
           {/* การติดต่อ */}
           <div className="p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
-            <p className="text-2xl font-bold">Contact</p>
+            <p className="text-2xl font-bold">ข้อมูลติดต่อ</p>
             <p>Facebook : Thanakrit Suphamongkhon</p>
             <p>Email: 66022635@up.ac.th</p>
             <p>Phone: 099-891-4553</p>
@@ -58,7 +58,7 @@ export default function Page() {
         <div>
           {/* Content Creator */}
           <div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
-            <h3 className="text-xl font-bold">Content Creator</h3>
+            <h3 className="text-xl font-bold">ข้อมูลความเป็นมาเกี่ยวกับการศึกษา</h3>
             <p>
             การเริ่มต้นเส้นทางการศึกษาที่มหาวิทยาลัยพะเยา รู้สึกตื่นเต้นแต่กังวลเมื่อก้าวเข้าสู่ช่วงใหม่ของชีวิต
             </p>
@@ -82,7 +82,7 @@ export default function Page() {
 
           {/* ประสบการณ์ */}
           <div className="p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
-            <p className="text-2xl font-bold">Experience</p>
+            <p className="text-2xl font-bold">ประสบการณ์การทํางาน</p>
             <ul className="list-disc pl-5">
               <li>
                 <strong>โครงการทำบุญคณะและไหว้ครู คณะเทคโนโลยีสารสนเทศและการสื่อสาร</strong> 5 กรกฎาคม พ.ศ. 2566
