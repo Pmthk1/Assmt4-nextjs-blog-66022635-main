@@ -82,34 +82,16 @@ export default function Page() {
 
           {/* ประสบการณ์ */}
           <div className="p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
-            <p className="text-2xl font-bold">ประสบการณ์การทํางาน</p>
+            <p className="text-2xl font-bold">ประสบการณ์</p>
             <ul className="list-disc pl-5">
               <li>
-                <strong>โครงการทำบุญคณะและไหว้ครู คณะเทคโนโลยีสารสนเทศและการสื่อสาร</strong> 5 กรกฎาคม พ.ศ. 2566
+                <strong>อบรมการใช้ framework ในการพัฒนาซอฟต์แวร์ส่วนหน้า 20-21 มกราคม 2567</strong>
               </li>
-              <li className="mt-2">
-                <strong>โครงการประกวดทูตวัฒนธรรมเวียง ประจำปีการศึกษา 2566</strong> 8 กรกฎาคม พ.ศ. 2566
+              <li>
+                <strong>ทําโปรเจ็ค front-end เขียนเว็บไซต์เกี่ยวกับ NovelVerse :รวมนิยาย ช่วง ปี1 เทอม 2 </strong>
               </li>
-              <li className="mt-2">
-                <strong>	ประเพณีเดินเข้า ม ประจำปี 2566</strong> 16 กรกฎาคม พ.ศ. 2566
-              </li>
-              <li className="mt-2">
-                <strong>	โครงการประกวดขับร้องเพลงลูกทุ่งและคอนเสิร์ต</strong> 9 กรกฎาคม พ.ศ. 2566
-              </li>
-              <li className="mt-2">
-                <strong> กิจกรรม ICT สืบสานลอยประทีปล้านนา</strong> 23 พฤศจิกายน พ.ศ. 2566
-              </li>
-              <li className="mt-2">
-                <strong> การพัฒนาบุคลิกภาพ </strong> 23 มกราคม พ.ศ. 2567
-              </li>
-              <li className="mt-2">
-                <strong> ความรู้โทษ พิภัย และกฎหมายที่เกี่ยวข้องกับยาเสพติด</strong> 23 มกราคม พ.ศ. 2567
-              </li>
-              <li className="mt-2">
-                <strong> เมื่องโบราณ เมืองพะเยา</strong> 23 มกราคม พ.ศ. 2567
-              </li>
-              <li className="mt-2">
-                <strong>สิ่งศักดิ์สิทธิ์จองพะเยา</strong> 23 มกราคม พ.ศ. 2567
+              <li>
+                <strong>ทําโปรเจ็คออกแบบเขียนเว็บไซต์คํานวณปริมาณอาหารที่เหมาะสมกับค่า bmi ช่วง ปี 2 เทอม 1 </strong>
               </li>
             </ul>
           </div>
