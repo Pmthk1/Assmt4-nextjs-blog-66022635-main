@@ -51,7 +51,7 @@ export default function Page() {
         </div>
 
         {/* Right Column */}
-        <div className="space-y-8 self-center">
+        <div className="space-y-8 self-center mt-6">
           {/* Personal Background */}
           <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
             <p className="text-2xl font-bold mb-4">ข้อมูลแนะนําตัวเอง</p>
