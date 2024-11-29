@@ -15,9 +15,9 @@ export default function Page() {
                 alt="Profile Picture"
                 layout="fill"
                 objectFit="cover"
-                className="rounded-full border-4 shadow-xl"
+                className="rounded-full"
               />
-              <div className="absolute inset-0 rounded-full border-4"></div>
+              <div className="absolute inset-0 rounded-full"></div>
             </div>
             <p className="text-3xl font-bold mt-4">Thanakrit Suphamongkhon</p>
           </div>
