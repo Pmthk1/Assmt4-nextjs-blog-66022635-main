@@ -11,7 +11,7 @@ export default function Page() {
           <div className="text-center mb-8">
             <div className="relative w-52 h-52 mx-auto">
               <Image
-                src="/image/catValo1.png"
+                src="/image/profile1.jpg"
                 alt="Profile Picture"
                 layout="fill"
                 objectFit="cover"
