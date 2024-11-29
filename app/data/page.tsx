@@ -6,7 +6,7 @@ export default function Page() {
       {/* Layout Structure */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-6xl p-6 rounded-xl shadow-2xl bg-white bg-opacity-90">
         {/* Left Column */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-6xl p-6 rounded-xl shadow-2xl bg-white bg-opacity-90 items-center">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-6xl p-6 rounded-xl shadow-2xl bg-opacity-90 items-center">
           {/* Profile Section */}
           <div className="text-center">
             <div className="relative w-52 h-52 mx-auto">
