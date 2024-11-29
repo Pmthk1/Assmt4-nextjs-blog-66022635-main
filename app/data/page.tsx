@@ -85,13 +85,13 @@ export default function Page() {
             <p className="text-2xl font-bold">ประสบการณ์</p>
             <ul className="list-disc pl-5">
               <li>
-                <strong>อบรมการใช้ framework ในการพัฒนาซอฟต์แวร์ส่วนหน้า 20-21 มกราคม 2567</strong>
+                <strong>อบรมการใช้ framework ในการพัฒนาซอฟต์แวร์ส่วนหน้า</strong>
               </li>
               <li>
-                <strong>ทําโปรเจ็ค front-end เขียนเว็บไซต์เกี่ยวกับ NovelVerse :รวมนิยาย ช่วง ปี1 เทอม 2 </strong>
+                <strong>ทําโปรเจ็ค front-end เขียนเว็บไซต์เกี่ยวกับ NovelVerse :รวมนิยาย</strong>
               </li>
               <li>
-                <strong>ทําโปรเจ็คออกแบบเขียนเว็บไซต์คํานวณปริมาณอาหารที่เหมาะสมกับค่า bmi ช่วง ปี 2 เทอม 1 </strong>
+                <strong>ทําโปรเจ็คออกแบบเขียนเว็บไซต์คํานวณปริมาณอาหารที่เหมาะสมกับค่า bmi</strong>
               </li>
             </ul>
           </div>
