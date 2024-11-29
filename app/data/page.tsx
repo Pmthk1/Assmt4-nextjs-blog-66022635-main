@@ -25,7 +25,9 @@ export default function Page() {
           {/* การศึกษา */}
           <div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
             <p className="text-2xl font-bold">Education</p>
-            <p>University of Phayao</p>
+            <p>University of Phayao 
+              Faculty/Major: ICT/SE66
+              2023 - Present </p>
           </div>
 
           {/* ทักษะ */}
