@@ -42,7 +42,7 @@ export default function PortfolioPage() {
         </div>
 
         {/* Right Column */}
-        <div className="flex flex-col justify-start mt-12 space-y-8">
+        <div className="flex flex-col justify-start mt-24 space-y-8">
           {/* Top Section */}
           <div className="space-y-8">
             {/* About Me Section */}
