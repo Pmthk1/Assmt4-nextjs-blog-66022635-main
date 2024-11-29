@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-500 via-blue-300 to-blue-200 text-black flex items-center justify-center px-4">
       {/* Layout Structure */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-6xl p-6 rounded-xl shadow-2xl bg-white bg-opacity-90">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-6xl p-6 rounded-xl shadow-2xl bg-opacity-90">
         {/* Left Column */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-6xl p-6 rounded-xl shadow-2xl bg-opacity-90 items-center">
           {/* Profile Section */}
