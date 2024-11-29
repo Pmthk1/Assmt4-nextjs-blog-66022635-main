@@ -6,7 +6,7 @@ export default function Page() {
       {/* Layout Structure */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-6xl p-6 rounded-xl shadow-2xl bg-white bg-opacity-90">
         {/* Left Column */}
-        <div className="space-y-8">
+        <div className="space-y-8 self-start">
           {/* Profile Section */}
           <div className="text-center">
             <div className="relative w-52 h-52 mx-auto">
@@ -40,18 +40,10 @@ export default function Page() {
               <li>Team Collaboration</li>
             </ul>
           </div>
-
-          {/* Contact Section */}
-          <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
-            <p className="text-2xl font-bold mb-4">ข้อมูลติดต่อ</p>
-            <p>Facebook : Thanakrit Suphamongkhon</p>
-            <p>Email: 66022635@up.ac.th</p>
-            <p>Phone: 099-891-4553</p>
-          </div>
         </div>
 
         {/* Right Column */}
-        <div className="space-y-8 self-start">
+        <div className="space-y-8 flex flex-col justify-center">
           {/* Personal Background */}
           <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
             <p className="text-2xl font-bold mb-4">ข้อมูลความเป็นมา</p>
