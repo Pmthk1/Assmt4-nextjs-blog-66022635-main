@@ -17,7 +17,7 @@ export default function Page() {
                 objectFit="cover"
                 className="rounded-full border-4 border-white shadow-xl"
               />
-              <div className="absolute inset-0 rounded-full border-4 border-blue-400"></div>
+              <div className="absolute inset-0 rounded-full border-4"></div>
             </div>
             <p className="text-3xl font-bold mt-4">Thanakrit Suphamongkhon</p>
           </div>
