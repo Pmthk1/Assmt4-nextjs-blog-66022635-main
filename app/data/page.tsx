@@ -2,11 +2,11 @@ import Image from "next/image";
 
 export default function Page() {
   return (
-    <div className="min-h-screen bg-gradient-to-r from-blue-500 to-purple-600 text-white flex items-center justify-center">
+    <div className="min-h-screen bg-gradient-to-b from-gray-100 to-blue-300 text-black flex items-center justify-center">
       {/* โครงสร้าง Layout */}
-      <div className="grid grid-cols-2 gap-8 w-4/5">
-        {/* คอลัมน์ซ้าย */}
-        <div>
+  <div className="grid grid-cols-2 gap-8 w-4/5">
+  {/* คอลัมน์ซ้าย */}
+  <div>
           {/* โปรไฟล์ */}
           <div className="text-center mb-8">
             <div className="relative w-52 h-52 mx-auto">
