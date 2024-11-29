@@ -15,7 +15,7 @@ export default function Page() {
                 alt="Profile Picture"
                 layout="fill"
                 objectFit="cover"
-                className="rounded-full border-4 border-white shadow-xl"
+                className="rounded-full border-4 shadow-xl"
               />
               <div className="absolute inset-0 rounded-full border-4"></div>
             </div>
