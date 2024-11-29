@@ -35,7 +35,7 @@ export default function Page() {
           <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
             <p className="text-2xl font-bold mb-4">ทักษะ</p>
             <ul className="list-disc pl-5 space-y-2">
-              <li>Programming: JavaScript, Python</li>
+              <li>Programming Language: JavaScript, Python</li>
               <li>Web Development: HTML, CSS, React, Next.js</li>
               <li>Team Collaboration</li>
             </ul>
