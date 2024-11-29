@@ -22,16 +22,16 @@ export default function Page() {
             <p className="text-2xl font-bold mt-4">Thanakrit Suphamongkhon</p>
           </div>
 
-          {/* การศึกษา */}
-          <div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
-            <p className="text-2xl font-bold text-center mb-4">Education</p>
-            <div className="text-center">
+          {/* การศึกษา */}<div className="mb-6 p-6 border-2 border-gray-300 rounded-lg bg-white text-black shadow-md">
+            <p className="text-2xl font-bold mb-4">Education</p>
+            <div>
               <p className="text-xl font-semibold">University of Phayao</p>
               <p className="mt-2">Faculty of Information and Communication Technology</p>
               <p className="mt-1">Software Engineering</p>
               <p className="mt-4 text-gray-600">2023 - Present</p>
               </div>
             </div>
+
 
 
           {/* ทักษะ */}
