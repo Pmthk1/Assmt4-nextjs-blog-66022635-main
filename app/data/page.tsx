@@ -51,7 +51,7 @@ export default function Page() {
         </div>
 
         {/* Right Column */}
-        <div className="space-y-8 self-start mt-2">
+        <div className="space-y-8 self-start mb-5">
           {/* Personal Background */}
           <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
             <p className="text-2xl font-bold mb-4">ข้อมูลแนะนําตัวเอง</p>
@@ -66,7 +66,7 @@ export default function Page() {
 
           {/* Experiences */}
           <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
-            <p className="text-2xl font-bold mb-4">ผลงาน</p>
+            <p className="text-2xl font-bold mb-5">ผลงาน</p>
             <ul className="list-disc pl-5 space-y-2">
               <li>
                 อบรมการใช้ Framework ในการพัฒนาซอฟต์แวร์ส่วนหน้า
