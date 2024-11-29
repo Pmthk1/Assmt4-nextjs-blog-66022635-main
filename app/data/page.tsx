@@ -51,30 +51,31 @@ export default function Page() {
         </div>
 
         {/* Right Column */}
-        <div className="space-y-8 self-start mt-8 mb-5 md:mt-8">
-          {/* Personal Background */}
-          <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
-            <p className="text-2xl font-bold mb-4">ข้อมูลแนะนําตัวเอง</p>
-            <p>
-              สวัสดีครับ ผมชื่อ นายธนกฤต สุภามงคล ตอนนี้กําลังศึกษาอยู่ชั้นปีที่ 2
-              มหาวิทยาลัยพะเยา
-            </p>
-            <h4 className="text-xl font-bold mt-4">ปีที่ 1:</h4>
-            <p>การสร้างพื้นฐานซอร์ฟแวร์...</p>
-            <h4 className="text-xl font-bold mt-4">ปีที่ 2:</h4>
-            <p>เจาะลึกลงไปในความเชี่ยวชาญเฉพาะทาง...</p>
-          </div>
+        <div className="space-y-6 self-start md:mt-0">
+  {/* Personal Background */}
+  <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
+    <p className="text-2xl font-bold mb-4">ข้อมูลแนะนําตัวเอง</p>
+    <p>
+      สวัสดีครับ ผมชื่อ นายธนกฤต สุภามงคล ตอนนี้กําลังศึกษาอยู่ชั้นปีที่ 2
+      มหาวิทยาลัยพะเยา
+    </p>
+    <h4 className="text-xl font-bold mt-4">ปีที่ 1:</h4>
+    <p>การสร้างพื้นฐานซอร์ฟแวร์...</p>
+    <h4 className="text-xl font-bold mt-4">ปีที่ 2:</h4>
+    <p>เจาะลึกลงไปในความเชี่ยวชาญเฉพาะทาง...</p>
+  </div>
 
-          {/* Experiences */}
-          <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
-            <p className="text-2xl font-bold mb-5">ผลงาน</p>
-            <ul className="list-disc pl-5 space-y-2">
-              <li>อบรมการใช้ Framework ในการพัฒนาซอฟต์แวร์ส่วนหน้า</li>
-              <li>ทําโปรเจ็ค Front-end: เกี่ยวกับเว็บไซต์ รวมนิยาย NovelVerse</li>
-              <li>ทําโปรเจ็ค เว็บไซต์คำนวณปริมาณอาหารที่เหมาะสมกับ BMI</li>
-            </ul>
-          </div>
-        </div>
+  {/* Experiences */}
+  <div className="p-6 bg-blue-50 rounded-lg shadow-lg">
+    <p className="text-2xl font-bold mb-5">ผลงาน</p>
+    <ul className="list-disc pl-5 space-y-2">
+      <li>อบรมการใช้ Framework ในการพัฒนาซอฟต์แวร์ส่วนหน้า</li>
+      <li>ทําโปรเจ็ค Front-end: เกี่ยวกับเว็บไซต์ รวมนิยาย NovelVerse</li>
+      <li>ทําโปรเจ็ค เว็บไซต์คำนวณปริมาณอาหารที่เหมาะสมกับ BMI</li>
+    </ul>
+  </div>
+</div>
+
       </div>
     </div>
   );
