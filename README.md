@@ -1,11 +1,4 @@
-# Portfolio Project
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Project Overview
-- This is a portfolio website built with Next.js to showcase personal projects, skills, and achievements.
-- The site is responsive and optimized for both desktop and mobile devices.
-- Uses Next.js features like automatic page updates and font optimization.
 
 ## Getting Started
 
